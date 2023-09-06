@@ -1,13 +1,17 @@
-//ÒÔÏÂÄÚÈİÎª»¥ÁªÍøÊÕ¼¯£¬Ö»Îª×ÔÓÃ¡­¡­
-{"storeHouse":[
-
-{"sourceName":"×ÔÓÃ²Ö¿â","sourceUrl":"https://raw.iqiq.io/liu673cn/box/main/dc.txt"},
-{"sourceName":"×ÔÓÃ²Ö¿â","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"},
-{"sourceName":"¶àÏß½Ó¿Ú","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
-{"sourceName":"¶à¶àÓÅÑ¡²Ö","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
-{"sourceName":"¶à¶à¹«ÖÚ²Ö","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
-{"sourceName":"¶à¶à¾ÛºÏ²Ö","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
-{"sourceName":"¶à¶àÔ¤±¸²Ö","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"},
-{"sourceName":"³¬¼¶²Ö¿â","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt"},
-
-]}
+{
+    "storeHouse": [
+        {
+            "sourceName": "â¤å¿ƒé­”ä»“åº“",
+            "sourceUrl": "https://raw.gitmirror.com/yw88075/tvbox/main/ywxl.json"
+        },
+		{
+            "sourceName": "ä»“åº“é•œåƒä¸€",
+            "sourceUrl": "https://jihulab.com/yw88075/tvbox/-/raw/main/ywxl.json"
+        },
+		{
+            "sourceName": "ä»“åº“é•œåƒäºŒ",
+            "sourceUrl": "https://gitee.com/yw88075/tvbox1/raw/main/ywxl.json"
+        }
+        
+    ]
+}
