@@ -15,7 +15,11 @@
 		{
             "sourceName": "仓库镜像二",
             "sourceUrl": "https://gitee.com/yw88075/tvbox1/raw/main/ywxl.json"
-        }
+        },
+		{
+            "sourceName": "18",
+            "sourceUrl": "https://agit.ai/gggwzj/gggdeng/raw/branch/master/18.json"
+        }             
         
     ]
 }
